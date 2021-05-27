@@ -1,0 +1,9 @@
+C:\MCW\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Release\netstandard2.1\Contoso.Apps.SportsLeague.Data.deps.json
+C:\MCW\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Release\netstandard2.1\Contoso.Apps.SportsLeague.Data.dll
+C:\MCW\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Release\netstandard2.1\Contoso.Apps.SportsLeague.Data.pdb
+C:\MCW\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Release\netstandard2.1\Contoso.Apps.SportsLeague.Data.csprojAssemblyReference.cache
+C:\MCW\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Release\netstandard2.1\Contoso.Apps.SportsLeague.Data.AssemblyInfoInputs.cache
+C:\MCW\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Release\netstandard2.1\Contoso.Apps.SportsLeague.Data.AssemblyInfo.cs
+C:\MCW\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Release\netstandard2.1\Contoso.Apps.SportsLeague.Data.csproj.CoreCompileInputs.cache
+C:\MCW\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Release\netstandard2.1\Contoso.Apps.SportsLeague.Data.dll
+C:\MCW\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Release\netstandard2.1\Contoso.Apps.SportsLeague.Data.pdb
